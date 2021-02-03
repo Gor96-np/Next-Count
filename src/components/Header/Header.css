@@ -1,0 +1,15 @@
+.Header {
+    position: static;
+    width: 96%;
+    height: 110px;
+    margin:10px 20px;
+    text-align: center;
+    align-items: center;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+    background-color: teal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 30px;
+}
